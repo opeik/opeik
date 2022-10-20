@@ -10,4 +10,6 @@
 - 📝 I write articles on [https://stikić.com](https://stikić.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS HomeKit automation](https://stikić.com/macos-homekit-automation/)
+- [space.rs](https://stikić.com/space-rs/)
 <!-- BLOG-POST-LIST:END -->
