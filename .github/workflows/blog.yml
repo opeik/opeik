@@ -1,0 +1,14 @@
+name: Update blog posts
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update-blog-posts:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 4
+          feed_list: https://stikić.com/atom.xml
