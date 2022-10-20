@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **scripting languages**
 
-- 🌱 I’m currently learning **about compilers**
+- 🌱 I’m currently learning about **compilers**
 
 - 💬 Ask me about **Rust**
 
