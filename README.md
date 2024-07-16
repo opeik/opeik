@@ -9,7 +9,7 @@
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Powershell is not my favourite scripting language](https://stikić.com/powershell-is-not-my-favourite-scripting-language/)
-- [macOS HomeKit automation](https://stikić.com/macos-homekit-automation/)
-- [space.rs](https://stikić.com/space-rs/)
+- [Shell is not my favourite language](https://stikić.com/blog/shell-is-not-my-favourite-language/)
+- [macOS HomeKit automation](https://stikić.com/blog/macos-homekit-automation/)
+- [space.rs](https://stikić.com/blog/space-rs/)
 <!-- BLOG-POST-LIST:END -->
